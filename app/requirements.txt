@@ -3,5 +3,6 @@ langchain-community
 streamlit
 python-dotenv
 langchain_groq
+chromadb
 
 
